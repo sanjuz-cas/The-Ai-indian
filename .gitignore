@@ -3,7 +3,10 @@ node_modules/
 __pycache__/
 *.py[codz]
 *$py.class
-
+# next.js build output
+/.next/
+/out/ 
+# For static exports
 # C extensions
 *.so
 
