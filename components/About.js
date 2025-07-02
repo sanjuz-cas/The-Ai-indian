@@ -7,6 +7,8 @@ export default function About() {
         Founded with a passion for artificial intelligence and ethical innovation, The AI Indian Company empowers businesses with
         AI-driven strategies and intelligent automation. We believe in making AI accessible, understandable, and impactful.
       </p>
+      <p>MUKESH KUMAR</p>
     </section>
   );
 }
+
